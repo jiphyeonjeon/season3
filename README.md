@@ -10,7 +10,7 @@ Jiphyeonjeon Study Group Season 3
   ·
   <a href="https://docs.google.com/spreadsheets/d/1aaBb0lkGQegz_td58MoaaYHALpB5FnfqljjGHizeoKw/edit#gid=0">Schedule</a>
   ·
-  <a href="https://github.com/jiphyeonjeon/season3/issues">Isses</a>
+  <a href="https://github.com/jiphyeonjeon/season3/issues">Issues</a>
 </div>
 <br></br>
 <details open="open">
